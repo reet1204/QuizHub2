@@ -2,7 +2,7 @@
   "name": "Quiz Hub — Test Your Knowledge",
   "short_name": "Quiz Hub",
   "description": "Test your knowledge on current affairs across India, Sports, AI, Defence, Finance and more.",
-  "start_url": "/quizhub2/index.html",
+  "start_url": "./index.html",
   "scope": "/quizhub2/",
   "display": "standalone",
   "background_color": "#1a1a2e",
